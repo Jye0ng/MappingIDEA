@@ -1,10 +1,10 @@
 # testCode by time flow
 
 sequence list :
-11월. JAVA _ (wiht JSON) specific properties.
-12월. Python 
-1월.  C++
-
+Nov. JAVA _ (wiht JSON in javascript) specific properties. & Derivative
+Dec. Python  & Matrix
+Jen. C++ chat system pgm. & Prob. 
+Feb. Analysis & Redefine my work.
 
 disorder points :
 Enlightenment is all of reason regardless of theme.
